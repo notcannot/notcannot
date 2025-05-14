@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @notcannot
-- 👀 I’m interested in Full Stack Dev.
+- 👀 I’m interested in art and design.
 - 🌱 I’m currently learning TOP
-- 💞️ I’m looking to collaborate on websites.
-- 📫 How to reach me ... Discord!
-- ⚡ Fun fact: Trying wizard build in Elden Ring since I've been a Great Sword simp since the game came out.
+- 💞️ I’m looking to collaborate on games.
+- ⚡ Fun fact: I once broke my nose swimming into a pool wall.
 
 <!---
-toosloe/toosloe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+notcannot/notcannot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
